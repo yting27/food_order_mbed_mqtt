@@ -1,5 +1,7 @@
 # Mbed OS Application for Food Ordering (MQTT)
 
+This application will communicate with [mqtt_food_order_web_app](https://github.com/yting27/mqtt_food_order_web_app.git) for food ordering features.
+
 ## Getting Started
 
 1. Install Mbed Studio: https://os.mbed.com/studio/
