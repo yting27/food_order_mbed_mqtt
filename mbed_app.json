@@ -1,0 +1,14 @@
+{
+    "config": {
+        "iothub_client_trace": {
+            "help": "Enable IoT Hub Client tracing",
+            "value": false
+        }
+    },
+    "target_overrides": {
+        "*": {
+            "platform.stdio-convert-newlines": true,
+            "platform.stdio-baud-rate": 115200
+        }
+    }
+}
